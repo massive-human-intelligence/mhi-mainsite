@@ -2,7 +2,7 @@
 
 The Massive Human Intelligence Project comprises an interconnected set of projects that together have a vision of a world made better for humans, by decentralizing and federating information, knowledge, and wisdom for the benefit of all.
 
-For more information, please contact [Peter Kaminski](mailto:kaminski@istori.com)
+For more information, please contact [Peter Kaminski](mailto:kaminski@istori.com).
 
 ## Massive Wiki
 
