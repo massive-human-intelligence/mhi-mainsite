@@ -26,7 +26,7 @@ Keys and Values offers application development services.
 
 ## Partner Organizations
 
-MHI collaborates and partners with other organizations, including [Open Global Mind](https://openglobalmind.com/), [CICOLAB](https://www.collectiveintelligencecollaboratory.org), [Trove](https://www.catalist.network/), and Flotilla.
+MHI collaborates and partners with other organizations, including [Open Global Mind](https://openglobalmind.com/), [CICOLAB](https://www.collectiveintelligencecollaboratory.com), [Trove](https://www.catalist.network/), and Flotilla.
 
 ## MHI System Diagram
 
