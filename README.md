@@ -14,7 +14,7 @@ Knowledge Weavers offers real-time and post hoc information knowledge capture, s
 
 ## Human Federation
 
-In a collective ecosystem of collectives of collectives, how can humans and decentralized organizations following the principle of subsidiarity connect and coordinate.  What patterns allow us to be strong and flexible enough to respond effectively to local and global challenges?
+In a collective ecosystem of collectives of collectives, how can humans and decentralized organizations following the principle of subsidiarity connect and coordinate?  What patterns allow us to be strong and flexible enough to respond effectively to local and global challenges?
 
 ## Keys and Values
 
