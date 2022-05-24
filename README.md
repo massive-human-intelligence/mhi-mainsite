@@ -14,7 +14,7 @@ Knowledge Weavers offers real-time and post hoc information knowledge capture, s
 
 ## Massive Decentralization
 
-In a collective ecosystem of collectives of collectives, how can humans and decentralized organizations following the principle of subsidiarity connect and coordinate?  What patterns allow us to be strong and flexible enough to respond effectively to local and global challenges?  Massive Decentralization maps one of a number of possible cooperating architectures for human-centered decentralization and federation. Since decentralization itself must be decentralized, we believe this is one way, but not the only way.
+In a collective ecosystem of collectives of collectives, how can humans and decentralized organizations following the principle of subsidiarity connect and coordinate?  What patterns allow us to be strong and flexible enough to respond effectively to local and global challenges?  **Massive Decentralization** maps one of a number of possible cooperating architectures for human-centered decentralization and federation. Since decentralization itself must be decentralized, we believe this is one way, but not the only way to decentralize.
 
 ## Keys and Values
 
