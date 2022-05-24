@@ -1,5 +1,7 @@
 # Massive Human Intelligence Project
 
+**Comments welcome!** Click the `<` icon in the upper right of the page to annotate/comment with [Hypothesis](https://hypothes.is/).
+
 The Massive Human Intelligence Project comprises an interconnected set of projects that together have a vision of a world made better for humans, by decentralizing and federating information, knowledge, and wisdom for the benefit of all.
 
 For more information, please contact [Peter Kaminski](mailto:kaminski@istori.com).
@@ -14,7 +16,9 @@ Knowledge Weavers offers real-time and post hoc information knowledge capture, s
 
 ## Massive Decentralization
 
-In a collective ecosystem of collectives of collectives, how can humans and decentralized organizations following the principle of subsidiarity connect and coordinate?  What patterns allow us to be strong and flexible enough to respond effectively to local and global challenges?  **Massive Decentralization** maps one of a number of possible cooperating architectures for human-centered decentralization and federation. Since decentralization itself must be decentralized, we believe this is one way, but not the only way to decentralize.
+In a collective ecosystem of collectives of collectives, how can humans and decentralized organizations following the principle of subsidiarity connect and coordinate?  What patterns allow us to be strong and flexible enough to respond effectively to local and global challenges?
+
+**Massive Decentralization** maps one of a number of possible cooperating architectures for human-centered decentralization and federation. Since decentralization itself must be decentralized, we believe this is one way, but not the only way, to decentralize.
 
 ## Keys and Values
 
@@ -22,7 +26,7 @@ Keys and Values offers application development services.
 
 ## Collective Sense Commons
 
-[Collective Sense Commons](https://collectivesensecommons.org/) is a public benefit project organized and supported by Peter Kaminski and others to provide coordination, communication, and sensemaking tools to individuals and organizations that are involved with collective sensemaking.
+[Collective Sense Commons](https://collectivesensecommons.org/) is a public benefit project organized and supported by Peter Kaminski and others to provide coordination, communication, and sensemaking tools to help individuals and organizations that are involved with collective sensemaking.
 
 ## Partner Organizations
 
