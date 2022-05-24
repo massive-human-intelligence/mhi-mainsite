@@ -12,9 +12,9 @@ For more information, please contact [Peter Kaminski](mailto:kaminski@istori.com
 
 Knowledge Weavers offers real-time and post hoc information knowledge capture, summarization, and synthesis.  Our human sensemakers offer their skills and talents to help you and your organization get the most out of conferences and events, text corpuses, and meetings.
 
-## Human Federation
+## Massive Decentralization
 
-In a collective ecosystem of collectives of collectives, how can humans and decentralized organizations following the principle of subsidiarity connect and coordinate?  What patterns allow us to be strong and flexible enough to respond effectively to local and global challenges?
+In a collective ecosystem of collectives of collectives, how can humans and decentralized organizations following the principle of subsidiarity connect and coordinate?  What patterns allow us to be strong and flexible enough to respond effectively to local and global challenges?  Massive Decentralization maps one of a number of possible cooperating architectures for human-centered decentralization and federation. Since decentralization itself must be decentralized, we believe this is one way, but not the only way.
 
 ## Keys and Values
 
@@ -26,8 +26,8 @@ Keys and Values offers application development services.
 
 ## Partner Organizations
 
-MHI collaborates and partners with other organizations, including [Open Global Mind](https://openglobalmind.com/), [CICOLAB](https://www.collectiveintelligencecollaboratory.com), [Trove](https://www.catalist.network/), and Flotilla.
+MHI collaborates and partners with other organizations, including [Open Global Mind](https://openglobalmind.com/), [Catalist](https://www.catalist.network/), [Lionsberg](https://www.lionsberg.org/), [CICOLAB](https://www.collectiveintelligencecollaboratory.com), and Flotilla.
 
 ## MHI System Diagram
 
-![[massive human intelligence project, 2021-06-04.png]]
+![[massive human intelligence project, 2022-05-24.png]]
